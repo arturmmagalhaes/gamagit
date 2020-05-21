@@ -1,14 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Repositories from './Repositories';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App title="Hello Gama Academy"/>
-    <Repositories />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
