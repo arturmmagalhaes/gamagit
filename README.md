@@ -1,4 +1,3 @@
-Link
 gamagit.surge.sh
 
 
